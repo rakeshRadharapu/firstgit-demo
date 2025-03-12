@@ -1,3 +1,4 @@
 # firstgit-demo
-This is my practise git repository<br>
-<Radarapu Rakesh>
+This is my practise git repository
+<br>
+<Radarapu-Rakesh>
